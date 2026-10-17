@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FCC5F0-3E5D-43BD-A99F-B1847B06E7BD}|API\\API.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FCC5F0-3E5D-43BD-A99F-B1847B06E7BD}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FCC5F0-3E5D-43BD-A99F-B1847B06E7BD}|API\\API.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6FCC5F0-3E5D-43BD-A99F-B1847B06E7BD}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FCC5F0-3E5D-43BD-A99F-B1847B06E7BD}|API\\API.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\api\\middleware\\errormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FCC5F0-3E5D-43BD-A99F-B1847B06E7BD}|API\\API.csproj|solutionrelative:api\\middleware\\errormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FCC5F0-3E5D-43BD-A99F-B1847B06E7BD}|API\\API.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\api\\controllers\\transferenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FCC5F0-3E5D-43BD-A99F-B1847B06E7BD}|API\\API.csproj|solutionrelative:api\\controllers\\transferenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C89B03-C624-4821-8F68-DF486DEED0A0}|Infrastructure.Sms\\Infrastructure.Sms.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.sms\\dataaccess\\enviarnotificacionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C89B03-C624-4821-8F68-DF486DEED0A0}|Infrastructure.Sms\\Infrastructure.Sms.csproj|solutionrelative:infrastructure.sms\\dataaccess\\enviarnotificacionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C89B03-C624-4821-8F68-DF486DEED0A0}|Infrastructure.Sms\\Infrastructure.Sms.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.sms\\infrastructure.sms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4C89B03-C624-4821-8F68-DF486DEED0A0}|Infrastructure.Sms\\Infrastructure.Sms.csproj|solutionrelative:infrastructure.sms\\infrastructure.sms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2EA589-D52F-49FA-BD09-E07080CD723F}|Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.camaracompensacion\\dataaccess\\registrarmovimientowriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2EA589-D52F-49FA-BD09-E07080CD723F}|Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj|solutionrelative:infrastructure.camaracompensacion\\dataaccess\\registrarmovimientowriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8815432-1FD5-40B2-B429-E523925AD702}|infrastructure.Antifraude\\infrastructure.Antifraude.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.antifraude\\dataaccess\\evaluarfraudereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8815432-1FD5-40B2-B429-E523925AD702}|infrastructure.Antifraude\\infrastructure.Antifraude.csproj|solutionrelative:infrastructure.antifraude\\dataaccess\\evaluarfraudereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.corebancario\\datamodels\\tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|solutionrelative:infrastructure.corebancario\\datamodels\\tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.corebancario\\dataaccess\\movimientoswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|solutionrelative:infrastructure.corebancario\\dataaccess\\movimientoswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.corebancario\\dataaccess\\movimientosreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|solutionrelative:infrastructure.corebancario\\dataaccess\\movimientosreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.corebancario\\dataaccess\\saldoswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|solutionrelative:infrastructure.corebancario\\dataaccess\\saldoswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.corebancario\\dataaccess\\saldosreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|solutionrelative:infrastructure.corebancario\\dataaccess\\saldosreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.corebancario\\dataaccess\\cuentaswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|solutionrelative:infrastructure.corebancario\\dataaccess\\cuentaswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.corebancario\\dataaccess\\cuentasreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|solutionrelative:infrastructure.corebancario\\dataaccess\\cuentasreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.corebancario\\infrastructure.corebancario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CFA2DA0-4327-4424-80D9-B104336AC9FE}|Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj|solutionrelative:infrastructure.corebancario\\infrastructure.corebancario.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8815432-1FD5-40B2-B429-E523925AD702}|infrastructure.Antifraude\\infrastructure.Antifraude.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.antifraude\\infrastructure.antifraude.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8815432-1FD5-40B2-B429-E523925AD702}|infrastructure.Antifraude\\infrastructure.Antifraude.csproj|solutionrelative:infrastructure.antifraude\\infrastructure.antifraude.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\usecases\\transexternausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\usecases\\transexternausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\interfaces\\transferenciaexterna\\icuentasreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\interfaces\\transferenciaexterna\\icuentasreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\interfaces\\transferenciaexterna\\itransexternausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\interfaces\\transferenciaexterna\\itransexternausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\interfaces\\transferenciaexterna\\isaldoswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\interfaces\\transferenciaexterna\\isaldoswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\interfaces\\transferenciaexterna\\isaldosreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\interfaces\\transferenciaexterna\\isaldosreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\interfaces\\transferenciaexterna\\iregistrarmovimientowriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\interfaces\\transferenciaexterna\\iregistrarmovimientowriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\interfaces\\transferenciaexterna\\imovimientoswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\interfaces\\transferenciaexterna\\imovimientoswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\interfaces\\transferenciaexterna\\imovimientosreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\interfaces\\transferenciaexterna\\imovimientosreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\interfaces\\transferenciaexterna\\ievaluarfraudereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\interfaces\\transferenciaexterna\\ievaluarfraudereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\interfaces\\transferenciaexterna\\ienviarnotificacionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\interfaces\\transferenciaexterna\\ienviarnotificacionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\interfaces\\transferenciaexterna\\icuentaswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\interfaces\\transferenciaexterna\\icuentaswriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\adapters\\transferenciaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\adapters\\transferenciaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\adapters\\transferenciarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\adapters\\transferenciarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\application\\executors\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62944337-250B-4A79-94C5-A7A52918A4DA}|application\\application.csproj|solutionrelative:application\\executors\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\domain\\entities\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\domain\\enums\\categoriacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\categoriacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\domain\\entities\\saldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\saldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\domain\\enums\\nivelriesgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\nivelriesgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\domain\\entities\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDF7BCE-2A74-4D11-BD2E-77DD44E6C99F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2EA589-D52F-49FA-BD09-E07080CD723F}|Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj|c:\\users\\usuario\\desktop\\transferenciainterbancaria\\infrastructure.camaracompensacion\\infrastructure.camaracompensacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D2EA589-D52F-49FA-BD09-E07080CD723F}|Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj|solutionrelative:infrastructure.camaracompensacion\\infrastructure.camaracompensacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T04:02:14.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T04:00:01.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\MiddleWare\\ErrorMiddleware.cs",
+              "RelativeDocumentMoniker": "API\\MiddleWare\\ErrorMiddleware.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\MiddleWare\\ErrorMiddleware.cs",
+              "RelativeToolTip": "API\\MiddleWare\\ErrorMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:59:35.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransferenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\Controllers\\TransferenciaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TransferenciaController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\Controllers\\TransferenciaController.cs",
+              "RelativeToolTip": "API\\Controllers\\TransferenciaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:58:51.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnviarNotificacionWriter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.Sms\\DataAccess\\EnviarNotificacionWriter.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Sms\\DataAccess\\EnviarNotificacionWriter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.Sms\\DataAccess\\EnviarNotificacionWriter.cs",
+              "RelativeToolTip": "Infrastructure.Sms\\DataAccess\\EnviarNotificacionWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:56:00.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrarMovimientoWriter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CamaraCompensacion\\DataAccess\\RegistrarMovimientoWriter.cs",
+              "RelativeDocumentMoniker": "Infrastructure.CamaraCompensacion\\DataAccess\\RegistrarMovimientoWriter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CamaraCompensacion\\DataAccess\\RegistrarMovimientoWriter.cs",
+              "RelativeToolTip": "Infrastructure.CamaraCompensacion\\DataAccess\\RegistrarMovimientoWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:55:52.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "infrastructure.Antifraude",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj",
+              "RelativeDocumentMoniker": "infrastructure.Antifraude\\infrastructure.Antifraude.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj",
+              "RelativeToolTip": "infrastructure.Antifraude\\infrastructure.Antifraude.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T03:53:52.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EvaluarFraudeReader.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\infrastructure.Antifraude\\DataAccess\\EvaluarFraudeReader.cs",
+              "RelativeDocumentMoniker": "infrastructure.Antifraude\\DataAccess\\EvaluarFraudeReader.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\infrastructure.Antifraude\\DataAccess\\EvaluarFraudeReader.cs",
+              "RelativeToolTip": "infrastructure.Antifraude\\DataAccess\\EvaluarFraudeReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:55:36.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tables.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataModels\\Tables.cs",
+              "RelativeDocumentMoniker": "Infrastructure.CoreBancario\\DataModels\\Tables.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataModels\\Tables.cs",
+              "RelativeToolTip": "Infrastructure.CoreBancario\\DataModels\\Tables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:55:19.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovimientosWriter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\MovimientosWriter.cs",
+              "RelativeDocumentMoniker": "Infrastructure.CoreBancario\\DataAccess\\MovimientosWriter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\MovimientosWriter.cs",
+              "RelativeToolTip": "Infrastructure.CoreBancario\\DataAccess\\MovimientosWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:55:08.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovimientosReader.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\MovimientosReader.cs",
+              "RelativeDocumentMoniker": "Infrastructure.CoreBancario\\DataAccess\\MovimientosReader.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\MovimientosReader.cs",
+              "RelativeToolTip": "Infrastructure.CoreBancario\\DataAccess\\MovimientosReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:55:02.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaldosWriter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\SaldosWriter.cs",
+              "RelativeDocumentMoniker": "Infrastructure.CoreBancario\\DataAccess\\SaldosWriter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\SaldosWriter.cs",
+              "RelativeToolTip": "Infrastructure.CoreBancario\\DataAccess\\SaldosWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:54:54.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaldosReader.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\SaldosReader.cs",
+              "RelativeDocumentMoniker": "Infrastructure.CoreBancario\\DataAccess\\SaldosReader.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\SaldosReader.cs",
+              "RelativeToolTip": "Infrastructure.CoreBancario\\DataAccess\\SaldosReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:54:48.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CuentasWriter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\CuentasWriter.cs",
+              "RelativeDocumentMoniker": "Infrastructure.CoreBancario\\DataAccess\\CuentasWriter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\CuentasWriter.cs",
+              "RelativeToolTip": "Infrastructure.CoreBancario\\DataAccess\\CuentasWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:54:41.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CuentasReader.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\CuentasReader.cs",
+              "RelativeDocumentMoniker": "Infrastructure.CoreBancario\\DataAccess\\CuentasReader.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\DataAccess\\CuentasReader.cs",
+              "RelativeToolTip": "Infrastructure.CoreBancario\\DataAccess\\CuentasReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:54:34.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEnviarNotificacionWriter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\IEnviarNotificacionWriter.cs",
+              "RelativeDocumentMoniker": "application\\Interfaces\\TransferenciaExterna\\IEnviarNotificacionWriter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\IEnviarNotificacionWriter.cs",
+              "RelativeToolTip": "application\\Interfaces\\TransferenciaExterna\\IEnviarNotificacionWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:48:10.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEvaluarFraudeReader.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\IEvaluarFraudeReader.cs",
+              "RelativeDocumentMoniker": "application\\Interfaces\\TransferenciaExterna\\IEvaluarFraudeReader.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\IEvaluarFraudeReader.cs",
+              "RelativeToolTip": "application\\Interfaces\\TransferenciaExterna\\IEvaluarFraudeReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:48:03.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRegistrarMovimientoWriter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\IRegistrarMovimientoWriter.cs",
+              "RelativeDocumentMoniker": "application\\Interfaces\\TransferenciaExterna\\IRegistrarMovimientoWriter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\IRegistrarMovimientoWriter.cs",
+              "RelativeToolTip": "application\\Interfaces\\TransferenciaExterna\\IRegistrarMovimientoWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:47:57.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMovimientosWriter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\IMovimientosWriter.cs",
+              "RelativeDocumentMoniker": "application\\Interfaces\\TransferenciaExterna\\IMovimientosWriter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\IMovimientosWriter.cs",
+              "RelativeToolTip": "application\\Interfaces\\TransferenciaExterna\\IMovimientosWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:47:51.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IMovimientosReader.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\IMovimientosReader.cs",
+              "RelativeDocumentMoniker": "application\\Interfaces\\TransferenciaExterna\\IMovimientosReader.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\IMovimientosReader.cs",
+              "RelativeToolTip": "application\\Interfaces\\TransferenciaExterna\\IMovimientosReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:47:44.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISaldosWriter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\ISaldosWriter.cs",
+              "RelativeDocumentMoniker": "application\\Interfaces\\TransferenciaExterna\\ISaldosWriter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\ISaldosWriter.cs",
+              "RelativeToolTip": "application\\Interfaces\\TransferenciaExterna\\ISaldosWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:47:36.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISaldosReader.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\ISaldosReader.cs",
+              "RelativeDocumentMoniker": "application\\Interfaces\\TransferenciaExterna\\ISaldosReader.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\ISaldosReader.cs",
+              "RelativeToolTip": "application\\Interfaces\\TransferenciaExterna\\ISaldosReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:47:30.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICuentasWriter.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\ICuentasWriter.cs",
+              "RelativeDocumentMoniker": "application\\Interfaces\\TransferenciaExterna\\ICuentasWriter.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\ICuentasWriter.cs",
+              "RelativeToolTip": "application\\Interfaces\\TransferenciaExterna\\ICuentasWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:47:20.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICuentasReader.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\ICuentasReader.cs",
+              "RelativeDocumentMoniker": "application\\Interfaces\\TransferenciaExterna\\ICuentasReader.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\ICuentasReader.cs",
+              "RelativeToolTip": "application\\Interfaces\\TransferenciaExterna\\ICuentasReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:47:09.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransExternaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\UseCases\\TransExternaUseCase.cs",
+              "RelativeDocumentMoniker": "application\\UseCases\\TransExternaUseCase.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\UseCases\\TransExternaUseCase.cs",
+              "RelativeToolTip": "application\\UseCases\\TransExternaUseCase.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:44:00.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TransferenciaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Adapters\\TransferenciaResponse.cs",
+              "RelativeDocumentMoniker": "application\\Adapters\\TransferenciaResponse.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Adapters\\TransferenciaResponse.cs",
+              "RelativeToolTip": "application\\Adapters\\TransferenciaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:43:26.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITransExternaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\ITransExternaUseCase.cs",
+              "RelativeDocumentMoniker": "application\\Interfaces\\TransferenciaExterna\\ITransExternaUseCase.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Interfaces\\TransferenciaExterna\\ITransExternaUseCase.cs",
+              "RelativeToolTip": "application\\Interfaces\\TransferenciaExterna\\ITransExternaUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:41:36.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TransferenciaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Adapters\\TransferenciaRequest.cs",
+              "RelativeDocumentMoniker": "application\\Adapters\\TransferenciaRequest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Adapters\\TransferenciaRequest.cs",
+              "RelativeToolTip": "application\\Adapters\\TransferenciaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:36:50.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Executors\\Result.cs",
+              "RelativeDocumentMoniker": "application\\Executors\\Result.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Executors\\Result.cs",
+              "RelativeToolTip": "application\\Executors\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:34:14.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoriaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Enums\\CategoriaCliente.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\CategoriaCliente.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Enums\\CategoriaCliente.cs",
+              "RelativeToolTip": "Domain\\Enums\\CategoriaCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:27:23.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NivelRiesgo.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Enums\\NivelRiesgo.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\NivelRiesgo.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Enums\\NivelRiesgo.cs",
+              "RelativeToolTip": "Domain\\Enums\\NivelRiesgo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:25:36.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Saldo.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Entities\\Saldo.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Saldo.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Entities\\Saldo.cs",
+              "RelativeToolTip": "Domain\\Entities\\Saldo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:23:52.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Transferencia.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Entities\\Transferencia.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Transferencia.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Entities\\Transferencia.cs",
+              "RelativeToolTip": "Domain\\Entities\\Transferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:23:23.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Entities\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Entities\\Cuenta.cs",
+              "RelativeToolTip": "Domain\\Entities\\Cuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:22:48.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Infrastructure.Sms",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.Sms\\Infrastructure.Sms.csproj",
+              "RelativeDocumentMoniker": "Infrastructure.Sms\\Infrastructure.Sms.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.Sms\\Infrastructure.Sms.csproj",
+              "RelativeToolTip": "Infrastructure.Sms\\Infrastructure.Sms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T03:21:27.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Infrastructure.CoreBancario",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj",
+              "RelativeDocumentMoniker": "Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj",
+              "RelativeToolTip": "Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T03:21:21.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Infrastructure.CamaraCompensacion",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj",
+              "RelativeDocumentMoniker": "Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj",
+              "RelativeToolTip": "Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T03:21:12.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj",
+              "RelativeDocumentMoniker": "application\\Application.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj",
+              "RelativeToolTip": "application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T03:11:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T03:05:32.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

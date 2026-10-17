@@ -1,0 +1,17 @@
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\bin\Debug\net10.0\Infrastructure.CoreBancario.deps.json
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\bin\Debug\net10.0\Infrastructure.CoreBancario.dll
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\bin\Debug\net10.0\Infrastructure.CoreBancario.pdb
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\bin\Debug\net10.0\Application.dll
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\bin\Debug\net10.0\Domain.dll
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\bin\Debug\net10.0\Application.pdb
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\bin\Debug\net10.0\Domain.pdb
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastr.EE07D9A8.Up2Date
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.dll
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\refint\Infrastructure.CoreBancario.dll
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.pdb
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\ref\Infrastructure.CoreBancario.dll

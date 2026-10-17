@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Infrastructure/">
+    <Project Path="infrastructure.Antifraude/infrastructure.Antifraude.csproj" Id="a8815432-1fd5-40b2-b429-e523925ad702" />
+    <Project Path="Infrastructure.CamaraCompensacion/Infrastructure.CamaraCompensacion.csproj" Id="2d2ea589-d52f-49fa-bd09-e07080cd723f" />
+    <Project Path="Infrastructure.CoreBancario/Infrastructure.CoreBancario.csproj" Id="4cfa2da0-4327-4424-80d9-b104336ac9fe" />
+    <Project Path="Infrastructure.Sms/Infrastructure.Sms.csproj" Id="c4c89b03-c624-4821-8f68-df486deed0a0" />
+  </Folder>
+  <Project Path="API/API.csproj" Id="b6fcc5f0-3e5d-43bd-a99f-b1847b06e7bd" />
+  <Project Path="application/Application.csproj" Id="62944337-250b-4a79-94c5-a7a52918a4da" />
+  <Project Path="Domain/Domain.csproj" Id="5edf7bce-2a74-4d11-bd2e-77dd44e6c99f" />
+</Solution>

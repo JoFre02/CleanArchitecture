@@ -1,0 +1,17 @@
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\bin\Debug\net10.0\Infrastructure.Sms.deps.json
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\bin\Debug\net10.0\Infrastructure.Sms.dll
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\bin\Debug\net10.0\Infrastructure.Sms.pdb
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\bin\Debug\net10.0\Application.dll
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\bin\Debug\net10.0\Domain.dll
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\bin\Debug\net10.0\Application.pdb
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\bin\Debug\net10.0\Domain.pdb
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\obj\Debug\net10.0\Infrastructure.Sms.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\obj\Debug\net10.0\Infrastructure.Sms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\obj\Debug\net10.0\Infrastructure.Sms.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\obj\Debug\net10.0\Infrastructure.Sms.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\obj\Debug\net10.0\Infrastructure.Sms.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\obj\Debug\net10.0\Infrastr.A08799DE.Up2Date
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\obj\Debug\net10.0\Infrastructure.Sms.dll
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\obj\Debug\net10.0\refint\Infrastructure.Sms.dll
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\obj\Debug\net10.0\Infrastructure.Sms.pdb
+C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.Sms\obj\Debug\net10.0\ref\Infrastructure.Sms.dll

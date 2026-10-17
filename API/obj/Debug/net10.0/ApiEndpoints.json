@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "API.Controllers.TransferenciaController",
+    "Method": "TransferenciaExterna",
+    "RelativePath": "api/Transferencia/externa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Adapters.TransferenciaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
