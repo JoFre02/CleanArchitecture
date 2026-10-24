@@ -3,6 +3,7 @@ using Application.Executors;
 using Application.Interfaces.TransferenciaExterna;
 using Domain.Entities;
 using Domain.Enums;
+using FluentValidation;
 
 namespace Application.UseCases
 {
@@ -18,6 +19,9 @@ namespace Application.UseCases
         private readonly IEvaluarFraudeReader _antifraude;
         private readonly IEnviarNotificacionWriter _notificaciones;
 
+        private readonly IValidator<TransferenciaRequest> _requestValidator;
+        private readonly IValidator<TraceIdentifierAdapter> _traceValidator;
+
         public TransExternaUseCase(
             ICuentasReader cuentasReader,
             ICuentasWriter cuentasWriter,
@@ -27,7 +31,10 @@ namespace Application.UseCases
             IMovimientosWriter movimientosWriter,
             IRegistrarMovimientoWriter camaraCompensacion,
             IEvaluarFraudeReader antifraude,
-            IEnviarNotificacionWriter notificaciones)
+            IEnviarNotificacionWriter notificaciones,
+            IValidator<TransferenciaRequest> requestValidator,
+            IValidator<TraceIdentifierAdapter> traceValidator
+            )
         {
             _cuentasReader = cuentasReader;
             _cuentasWriter = cuentasWriter;
@@ -38,10 +45,28 @@ namespace Application.UseCases
             _camaraCompensacion = camaraCompensacion;
             _antifraude = antifraude;
             _notificaciones = notificaciones;
+            _requestValidator = requestValidator;
+            _traceValidator = traceValidator;
         }
 
-        public async Task<Result<TransferenciaResponse>> ExecuteAsync(TransferenciaRequest request)
+        public async Task<Result<TransferenciaResponse>> ExecuteAsync(TransferenciaRequest request, TraceIdentifierAdapter trace)
         {
+            // 1. Validar trazabilidad
+            var validacionTrace = await _traceValidator.ValidateAsync(trace);
+            if (!validacionTrace.IsValid)
+            {
+                var error = validacionTrace.Errors[0];
+                return Result<TransferenciaResponse>.Error(error.ErrorMessage, error.ErrorCode);
+            }
+
+            // 2. Validar el payload
+            var validacionRequest = await _requestValidator.ValidateAsync(request);
+            if (!validacionRequest.IsValid)
+            {
+                var error = validacionRequest.Errors[0];
+                return Result<TransferenciaResponse>.Error(error.ErrorMessage, error.ErrorCode);
+            }
+
             var cuenta = await _cuentasReader.ObtenerPorNumeroAsync(request.CuentaOrigen);
             if (cuenta is null || !cuenta.Activa)
                 return Result<TransferenciaResponse>.Error("Cuenta no encontrada o inactiva", "CUENTA_INVALIDA");
@@ -88,7 +113,9 @@ namespace Application.UseCases
             saldo.Monto -= (request.Monto + comision);
             await _saldosWriter.ActualizarAsync(saldo);
 
-            await _movimientosWriter.RegistrarAsync(transferencia);
+            bool registrado = await _movimientosWriter.RegistrarAsync(transferencia);
+            if (!registrado)
+                return Result<TransferenciaResponse>.Error("No se pudo registrar el movimiento", "ERROR_REGISTRO_MOVIMIENTO");
 
             await _notificaciones.EnviarAsync(cuenta.TitularDni, $"Transferencia realizada por S/ {request.Monto}. Código: {transferencia.CodigoOperacion}");
 
