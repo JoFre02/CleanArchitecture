@@ -1,24 +1,16 @@
 ﻿using Application.Interfaces.TransferenciaExterna;
 using Domain.Entities;
-using Domain.Enums;
+using Infrastructure.CoreBancario.DataModels;
+using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.CoreBancario.DataAccess
 {
     public class CuentasReader : ICuentasReader
     {
-        public Task<Cuenta?> ObtenerPorNumeroAsync(string numeroCuenta)
-        {
-            var cuenta = new Cuenta
-            {
-                NumeroCuenta = numeroCuenta,
-                TitularDni = "12345678",
-                Banco = "BancoMock",
-                Activa = true,
-                Segmento = CategoriaCliente.Estandar,
-                LimiteDiario = 15000
-            };
+        private readonly CoreBancarioDbContext _context;
+        public CuentasReader(CoreBancarioDbContext context) => _context = context;
 
-            return Task.FromResult<Cuenta?>(cuenta);
-        }
+        public Task<Cuenta?> ObtenerPorNumeroAsync(string numeroCuenta) =>
+            _context.Cuentas.FirstOrDefaultAsync(c => c.NumeroCuenta == numeroCuenta);
     }
 }

@@ -1,13 +1,18 @@
 ﻿using Application.Interfaces.TransferenciaExterna;
 using Domain.Entities;
+using Infrastructure.CoreBancario.DataModels;
 
 namespace Infrastructure.CoreBancario.DataAccess
 {
     public class SaldosWriter : ISaldosWriter
     {
-        public Task ActualizarAsync(Saldo saldo)
+        private readonly CoreBancarioDbContext _context;
+        public SaldosWriter(CoreBancarioDbContext context) => _context = context;
+
+        public async Task ActualizarAsync(Saldo saldo)
         {
-            return Task.CompletedTask;
+            _context.Saldos.Update(saldo);
+            await _context.SaveChangesAsync();
         }
     }
 }

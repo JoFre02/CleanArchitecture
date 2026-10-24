@@ -1,13 +1,18 @@
 ﻿using Application.Interfaces.TransferenciaExterna;
 using Domain.Entities;
+using Infrastructure.CoreBancario.DataModels;
 
 namespace Infrastructure.CoreBancario.DataAccess
 {
     public class MovimientosWriter : IMovimientosWriter
     {
-        public Task RegistrarAsync(Transferencia transferencia)
+        private readonly CoreBancarioDbContext _context;
+        public MovimientosWriter(CoreBancarioDbContext context) => _context = context;
+
+        public async Task RegistrarAsync(Transferencia transferencia)
         {
-            return Task.CompletedTask;
+            _context.Movimientos.Add(transferencia);
+            await _context.SaveChangesAsync();
         }
     }
 }
