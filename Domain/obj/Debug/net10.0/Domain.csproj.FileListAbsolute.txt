@@ -9,3 +9,16 @@ C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Domain\obj\Debug\net10.0\Dom
 C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Domain\obj\Debug\net10.0\refint\Domain.dll
 C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Domain\obj\Debug\net10.0\Domain.pdb
 C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Domain\obj\Debug\net10.0\ref\Domain.dll
+C:\Capacitacin\CleanArchitecture\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\Capacitacin\CleanArchitecture\Domain\bin\Debug\net10.0\Domain.dll
+C:\Capacitacin\CleanArchitecture\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Capacitacin\CleanArchitecture\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache
+C:\Capacitacin\CleanArchitecture\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capacitacin\CleanArchitecture\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\Capacitacin\CleanArchitecture\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\Capacitacin\CleanArchitecture\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\Capacitacin\CleanArchitecture\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+C:\Capacitacin\CleanArchitecture\Domain\obj\Debug\net10.0\Domain.dll
+C:\Capacitacin\CleanArchitecture\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\Capacitacin\CleanArchitecture\Domain\obj\Debug\net10.0\Domain.pdb
+C:\Capacitacin\CleanArchitecture\Domain\obj\Debug\net10.0\ref\Domain.dll

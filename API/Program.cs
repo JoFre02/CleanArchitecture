@@ -1,10 +1,14 @@
 using Application.Interfaces.TransferenciaExterna;
 using Application.UseCases;
 using Infrastructure.Antifraude.DataAccess;
+using Infrastructure.Antifraude.DataModels;
 using Infrastructure.CamaraCompensacion.DataAccess;
 using Infrastructure.CoreBancario.DataAccess;
+using Infrastructure.CoreBancario.DataModels;
 using Infrastructure.Sms.DataAccess;
 using API.Middleware;
+using Microsoft.EntityFrameworkCore;
+
 using Application.Adapters;
 using FluentValidation;
 var builder = WebApplication.CreateBuilder(args);
@@ -14,6 +18,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Inyección de dependencias: interfaz -> implementación mock
+builder.Services.AddDbContext<CoreBancarioDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<ICuentasReader, CuentasReader>();
 builder.Services.AddScoped<ICuentasWriter, CuentasWriter>();
 builder.Services.AddScoped<ISaldosReader, SaldosReader>();
@@ -21,6 +27,10 @@ builder.Services.AddScoped<ISaldosWriter, SaldosWriter>();
 builder.Services.AddScoped<IMovimientosReader, MovimientosReader>();
 builder.Services.AddScoped<IMovimientosWriter, MovimientosWriter>();
 builder.Services.AddScoped<IRegistrarMovimientoWriter, RegistrarMovimientoWriter>();
+// Antifraude: lee la tabla contrato que publica el Sistema Antifraude (batch independiente)
+builder.Services.AddDbContext<AntifraudeDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("AntifraudeConnection")));
+builder.Services.AddSingleton(TimeProvider.System);
 builder.Services.AddScoped<IEvaluarFraudeReader, EvaluarFraudeReader>();
 builder.Services.AddScoped<IEnviarNotificacionWriter, EnviarNotificacionWriter>();
 

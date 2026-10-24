@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\API.csproj": {}
+    "C:\\Capacitacin\\CleanArchitecture\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\API.csproj": {
+    "C:\\Capacitacin\\CleanArchitecture\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\API.csproj",
+        "projectUniqueName": "C:\\Capacitacin\\CleanArchitecture\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\API\\obj\\",
+        "projectPath": "C:\\Capacitacin\\CleanArchitecture\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\DiegoYzarra\\.nuget\\packages\\",
+        "outputPath": "C:\\Capacitacin\\CleanArchitecture\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DiegoYzarra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,20 +33,20 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj"
+              "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj": {
+                "projectPath": "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj"
+              "C:\\Capacitacin\\CleanArchitecture\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj": {
+                "projectPath": "C:\\Capacitacin\\CleanArchitecture\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj"
+              "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj": {
+                "projectPath": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj"
+              "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj": {
+                "projectPath": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.Sms\\Infrastructure.Sms.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.Sms\\Infrastructure.Sms.csproj"
+              "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.Sms\\Infrastructure.Sms.csproj": {
+                "projectPath": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.Sms\\Infrastructure.Sms.csproj"
               }
             }
           }
@@ -73,6 +72,10 @@
               "target": "Package",
               "version": "[10.0.9, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[10.3.0, )"
@@ -97,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -515,20 +518,20 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj": {
+    "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj",
+        "projectUniqueName": "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\obj\\",
+        "projectPath": "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj",
+        "packagesPath": "C:\\Users\\DiegoYzarra\\.nuget\\packages\\",
+        "outputPath": "C:\\Capacitacin\\CleanArchitecture\\application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DiegoYzarra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -537,7 +540,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -545,8 +547,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Domain.csproj"
+              "C:\\Capacitacin\\CleanArchitecture\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Capacitacin\\CleanArchitecture\\Domain\\Domain.csproj"
               }
             }
           }
@@ -567,6 +569,12 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -583,7 +591,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -861,20 +869,20 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Domain.csproj": {
+    "C:\\Capacitacin\\CleanArchitecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Capacitacin\\CleanArchitecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Domain\\obj\\",
+        "projectPath": "C:\\Capacitacin\\CleanArchitecture\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\DiegoYzarra\\.nuget\\packages\\",
+        "outputPath": "C:\\Capacitacin\\CleanArchitecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DiegoYzarra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -883,7 +891,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -909,6 +916,12 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -925,7 +938,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1203,20 +1216,20 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj": {
+    "C:\\Capacitacin\\CleanArchitecture\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj",
+        "projectUniqueName": "C:\\Capacitacin\\CleanArchitecture\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj",
         "projectName": "infrastructure.Antifraude",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\infrastructure.Antifraude\\obj\\",
+        "projectPath": "C:\\Capacitacin\\CleanArchitecture\\infrastructure.Antifraude\\infrastructure.Antifraude.csproj",
+        "packagesPath": "C:\\Users\\DiegoYzarra\\.nuget\\packages\\",
+        "outputPath": "C:\\Capacitacin\\CleanArchitecture\\infrastructure.Antifraude\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DiegoYzarra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1225,7 +1238,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1233,8 +1245,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj"
+              "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj": {
+                "projectPath": "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj"
               }
             }
           }
@@ -1255,6 +1267,16 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            },
+            "System.Security.Cryptography.Pkcs": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -1271,7 +1293,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1549,20 +1571,20 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj": {
+    "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj",
+        "projectUniqueName": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj",
         "projectName": "Infrastructure.CamaraCompensacion",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CamaraCompensacion\\obj\\",
+        "projectPath": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CamaraCompensacion\\Infrastructure.CamaraCompensacion.csproj",
+        "packagesPath": "C:\\Users\\DiegoYzarra\\.nuget\\packages\\",
+        "outputPath": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CamaraCompensacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DiegoYzarra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1571,7 +1593,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1579,8 +1600,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj"
+              "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj": {
+                "projectPath": "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj"
               }
             }
           }
@@ -1601,6 +1622,12 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -1617,7 +1644,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1895,20 +1922,20 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj": {
+    "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj",
+        "projectUniqueName": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj",
         "projectName": "Infrastructure.CoreBancario",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.CoreBancario\\obj\\",
+        "projectPath": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CoreBancario\\Infrastructure.CoreBancario.csproj",
+        "packagesPath": "C:\\Users\\DiegoYzarra\\.nuget\\packages\\",
+        "outputPath": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.CoreBancario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DiegoYzarra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1917,7 +1944,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1925,8 +1951,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj"
+              "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj": {
+                "projectPath": "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj"
               }
             }
           }
@@ -1947,6 +1973,12 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -1963,7 +1995,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -2241,20 +2273,20 @@
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.Sms\\Infrastructure.Sms.csproj": {
+    "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.Sms\\Infrastructure.Sms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.Sms\\Infrastructure.Sms.csproj",
+        "projectUniqueName": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.Sms\\Infrastructure.Sms.csproj",
         "projectName": "Infrastructure.Sms",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.Sms\\Infrastructure.Sms.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\Infrastructure.Sms\\obj\\",
+        "projectPath": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.Sms\\Infrastructure.Sms.csproj",
+        "packagesPath": "C:\\Users\\DiegoYzarra\\.nuget\\packages\\",
+        "outputPath": "C:\\Capacitacin\\CleanArchitecture\\Infrastructure.Sms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DiegoYzarra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2263,7 +2295,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -2271,8 +2302,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\TransferenciaInterbancaria\\application\\Application.csproj"
+              "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj": {
+                "projectPath": "C:\\Capacitacin\\CleanArchitecture\\application\\Application.csproj"
               }
             }
           }
@@ -2293,6 +2324,12 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -2309,7 +2346,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
