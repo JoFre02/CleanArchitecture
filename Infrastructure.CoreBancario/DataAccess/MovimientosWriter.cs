@@ -5,9 +5,9 @@ namespace Infrastructure.CoreBancario.DataAccess
 {
     public class MovimientosWriter : IMovimientosWriter
     {
-        public Task RegistrarAsync(Transferencia transferencia)
+        public Task<bool> RegistrarAsync(Transferencia transferencia)
         {
-            return Task.CompletedTask;
+            return Task.FromResult(true);
         }
     }
 }

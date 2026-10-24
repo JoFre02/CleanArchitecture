@@ -5,7 +5,8 @@ using Infrastructure.CamaraCompensacion.DataAccess;
 using Infrastructure.CoreBancario.DataAccess;
 using Infrastructure.Sms.DataAccess;
 using API.Middleware;
-
+using Application.Adapters;
+using FluentValidation;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
@@ -24,6 +25,8 @@ builder.Services.AddScoped<IEvaluarFraudeReader, EvaluarFraudeReader>();
 builder.Services.AddScoped<IEnviarNotificacionWriter, EnviarNotificacionWriter>();
 
 builder.Services.AddScoped<ITransExternaUseCase, TransExternaUseCase>();
+builder.Services.AddScoped<IValidator<TransferenciaRequest>, TransferenciaRequestValidator>();
+builder.Services.AddScoped<IValidator<TraceIdentifierAdapter>, TraceIdentifierAdapterValidator>();
 
 var app = builder.Build();
 

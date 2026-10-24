@@ -4,6 +4,6 @@ namespace Application.Interfaces.TransferenciaExterna
 {
     public interface IMovimientosWriter
     {
-        Task RegistrarAsync(Transferencia transferencia);
+        Task<bool> RegistrarAsync(Transferencia transferencia);
     }
 }
