@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("infrastructure.Antifraude")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1b00700fc56b546f8a8c2040954b6ba6cfe5cc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("infrastructure.Antifraude")]
 [assembly: System.Reflection.AssemblyTitleAttribute("infrastructure.Antifraude")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

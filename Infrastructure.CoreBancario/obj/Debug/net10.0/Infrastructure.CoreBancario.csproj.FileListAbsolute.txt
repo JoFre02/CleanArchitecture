@@ -15,3 +15,12 @@ C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\
 C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\refint\Infrastructure.CoreBancario.dll
 C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.pdb
 C:\Users\USUARIO\Desktop\TransferenciaInterbancaria\Infrastructure.CoreBancario\obj\Debug\net10.0\ref\Infrastructure.CoreBancario.dll
+C:\Capacitacin\CleanArchitecture\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.csproj.AssemblyReference.cache
+C:\Capacitacin\CleanArchitecture\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capacitacin\CleanArchitecture\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.AssemblyInfoInputs.cache
+C:\Capacitacin\CleanArchitecture\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.AssemblyInfo.cs
+C:\Capacitacin\CleanArchitecture\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.csproj.CoreCompileInputs.cache
+C:\Capacitacin\CleanArchitecture\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.sourcelink.json
+C:\Capacitacin\CleanArchitecture\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.dll
+C:\Capacitacin\CleanArchitecture\Infrastructure.CoreBancario\obj\Debug\net10.0\refint\Infrastructure.CoreBancario.dll
+C:\Capacitacin\CleanArchitecture\Infrastructure.CoreBancario\obj\Debug\net10.0\Infrastructure.CoreBancario.pdb
