@@ -1,6 +1,7 @@
 ﻿using Application.Adapters;
 using Application.Interfaces.TransferenciaExterna;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Channels;
 
 namespace API.Controllers
 {
@@ -16,9 +17,19 @@ namespace API.Controllers
         }
 
         [HttpPost("externa")]
-        public async Task<IActionResult> TransferenciaExterna([FromBody] TransferenciaRequest request)
+        public async Task<IActionResult> TransferenciaExterna(
+        [FromBody] TransferenciaRequest request,
+        [FromHeader(Name = "X-Device-Id")] string? deviceId,
+        [FromHeader(Name = "X-Message-Id")] string? messageId,
+        [FromHeader(Name = "X-Channel-Id")] string? channelId)
         {
-            var result = await _transExternaUseCase.ExecuteAsync(request);
+            var trace = new TraceIdentifierAdapter
+            {
+                DeviceIdentifier = deviceId,
+                MessageIdentifier = messageId,
+                ChannelIdentifier = channelId
+            };
+            var result = await _transExternaUseCase.ExecuteAsync(request, trace);
 
             if (!result.Exitoso)
             {

@@ -9,10 +9,10 @@ namespace Infrastructure.CoreBancario.DataAccess
         private readonly CoreBancarioDbContext _context;
         public MovimientosWriter(CoreBancarioDbContext context) => _context = context;
 
-        public async Task RegistrarAsync(Transferencia transferencia)
+        public async Task<bool> RegistrarAsync(Transferencia transferencia)
         {
             _context.Movimientos.Add(transferencia);
-            await _context.SaveChangesAsync();
+            return await _context.SaveChangesAsync() > 0;
         }
     }
 }
